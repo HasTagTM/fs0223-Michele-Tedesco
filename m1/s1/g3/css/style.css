@@ -2,6 +2,10 @@ header{
     text-align: center;
 }
 
+h1{
+    text-align: center;
+}
+
 #main{
     margin-left: 30%;
     margin-right: 30%;
@@ -16,8 +20,16 @@ figure{
 
 
 .link h3{
-   
+   border-left-width: 5px;
    color: red;
+   
+}
+
+.link{
+    border-left: solid;
+    color: coral;
+    padding-left: 10px
+    ;
 }
 
 
@@ -25,7 +37,20 @@ a{
     color: blue;
 }
 
+.ingredienti{
+    border-bottom: solid;
+    color: grey;
+    padding-bottom: 10px;
+}
+
 body{
     width: 100%;
 }
+
+.metodo{
+    border-bottom: solid;
+    color: grey;
+    padding-bottom: 10px;
+}
+
 
