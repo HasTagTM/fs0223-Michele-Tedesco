@@ -1,5 +1,6 @@
 header{
     text-align: center;
+    font-size: 10px;
 }
 
 h1{
@@ -15,9 +16,13 @@ h1{
 figure{
     text-align: center;
     
-
 }
 
+#logo img{
+    width: 180px;
+}
+
+#logo{}
 
 .link h3{
    border-left-width: 5px;
@@ -30,6 +35,12 @@ figure{
     color: coral;
     padding-left: 10px
     ;
+}
+
+figure img{
+    max-width: 100%;
+    border-radius: 15px;
+    
 }
 
 
@@ -52,5 +63,6 @@ body{
     color: grey;
     padding-bottom: 10px;
 }
+
 
 
