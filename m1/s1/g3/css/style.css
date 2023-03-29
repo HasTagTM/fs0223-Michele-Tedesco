@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+}
+
+#main{
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+
+figure{
+    text-align: center;
+    
+
+}
+
+
+.link h3{
+   
+   color: red;
+}
+
+
+a{
+    color: blue;
+}
+
+body{
+    width: 100%;
+}
+
