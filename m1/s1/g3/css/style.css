@@ -1,6 +1,7 @@
-header{
+#header{
     text-align: center;
     font-size: 10px;
+    padding-bottom: 50px;
 }
 
 h1{
@@ -64,5 +65,14 @@ body{
     padding-bottom: 10px;
 }
 
+blockquote{
+    background-color: darksalmon;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
 
+iframe{
+    width: 100%;
+}
 
